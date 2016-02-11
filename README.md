@@ -1,5 +1,5 @@
-# Angular 2 KickStart Project
-> This code is based of purely from the [Angular 2 Tutorial](https://angular.io/docs/ts/latest/quickstart.html).
+# Angular 2 KickStart Project [<img src="http://1.bp.blogspot.com/-eiRkvPEafsA/Vgk0YsW9K4I/AAAAAAAAA4g/0X2djtLXwzw/s1600/vQv9AxqM.png" align="right" width="200">](https://angular.io/)
+> This code is based of purely from the [Angular 2 Tutorial](https://angular.io/docs/ts/latest/quickstart.html). 
 
 ## Description
 This repository acts as a very simple Angular 2 Beta KickStart Code with which you can get started developing Angular 2 immediately.
@@ -24,7 +24,7 @@ npm start
 gulp
 ```
 
-[<img src="http://1.bp.blogspot.com/-eiRkvPEafsA/Vgk0YsW9K4I/AAAAAAAAA4g/0X2djtLXwzw/s1600/vQv9AxqM.png" align="center" width="300">](https://angular.io/)
+
 
 
 Your application should be up and running in your default browser
