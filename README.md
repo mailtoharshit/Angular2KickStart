@@ -11,7 +11,7 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 ```
 git clone hhttps://github.com/mailtoharshit/Angular2KickStart.git
 ```
-2: Sine I uploaded npm-packages, you don't need to install anything (update packages when you run)
+2: Since I uploaded npm-packages, you don't need to install anything (update packages when you run)
 ```
 npm update
 ```
